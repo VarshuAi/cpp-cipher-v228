@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Encrypts texts using algebraic hill matrix values. [Variant 228 using CPP with Glassmorphism theme]
+  name: cpp-cipher-v228 version: 1.0 type: Repository author: VarshuAi description: >   Encrypts texts using algebraic hill matrix values. [Variant 228 using CPP with Glassmorphism theme] primary_tech: C++
 primary_tech: C++
 ```
 
